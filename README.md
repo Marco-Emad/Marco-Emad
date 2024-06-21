@@ -37,8 +37,8 @@ I am also a problem solver with C++ along with my academic years contested at ma
 - [Email](marcoemad83@gmail.com) marcoemad83@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/marcoemad/)
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-emad&show_icons=true)
+## 📊GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-emad&show_icons=true&theme=tokyonight )
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-emad)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-emad&theme=tokyonight)
