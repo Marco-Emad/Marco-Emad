@@ -1,9 +1,9 @@
 # Hi there, I'm Marco Emad 👨‍💻👋
 
 ## About Me 💻
-I am a passionate software developer with a love for creating innovative solutions.<br>
-I am a computer science graduate of 2023 with a B+ with honors and top 4 in my department with 3.6 GPA.<br>
-I am also a problem solver with C++ along with my academic years contested at many ECPCs and have more than 1k problem solved among different judges like 
+Passionate software developer with a love for creating innovative solutions,<br>
+Computer Science Graduate of 2023 with a B+ with honors and top 4 on my department with 3.6 GPA,<br>
+Problem Solver with C++ along with my academic years contested at many ECPCs and have more than 1k problem solved among different judges like 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)]((https://codeforces.com/profile/MarcoEmad))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/MarcoEmad/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/MarcoEmad)
