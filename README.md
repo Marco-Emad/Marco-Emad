@@ -29,9 +29,9 @@ Problem Solver with C++ along with my academic years contested at many ECPCs and
 
 
 
-## Projects - under maintenance
-- [Project 1](https://github.com/yourusername/project1): A brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2): Another cool project with a brief description.
+## Projects
+- [Fashion-Flex](https://github.com/Omnia-Rowezak/Fashion-Flex): An e-commerce platform focused on delivering a seamless online shopping experience for fashion products. The project features a user-friendly interface, integrated payment system via Stripe, and an admin dashboard for managing customers, products, and orders. Built with ASP.NET Core, MySQL, and Bootstrap for responsive design, the platform ensures efficient handling of data and secure transactions.
+- [Anime Voting-System](https://github.com/Marco-Emad/Voting-System): A web-based platform designed for users to vote between different anime shows, featuring real-time voting results and dynamic content updates. Built entirely with PHP for both the backend and frontend, the system ensures efficient data handling and a smooth user experience. The platform allows users to cast votes, view live results, intuitive interface designed for ease of use.
 
 ## Contact
 - [Email](marcoemad83@gmail.com) marcoemad83@gmail.com
